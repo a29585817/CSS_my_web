@@ -1,0 +1,158 @@
+a{
+  color: #11999E;
+  padding: 25px;
+}
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #CDF0EA
+  color: #40514E;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 ;
+  line-height:2;
+}
+
+h2{
+  color: #66BFBF;
+  font-size:2.5em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+padding-bottom: 10px;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: #11999E;
+}
+
+hr{
+  border bottom: none;
+  width: 4%;
+  border-top: 10px dotted #EAF6F6;
+  margin: 100px auto;
+}
+p{
+  font-weight: bold;
+  word-wrap:break-word;
+  color:#40514E;
+  line-height:2;
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 26px;
+  -moz-border-radius: 26px;
+  border-radius: 26px;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 8;
+  border: solid #FFFFFF 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  width:100px;
+  height:30px;
+}
+
+.botton-cloud{
+  position: absolute;
+  left: 215px;
+  bottom: 200px;
+}
+
+.bottom-eleent{
+  position: relative;
+  top: 30px;
+  text-decoration: none;
+}
+.bottom-eleent:hover {
+  color:#EAF6F6;
+}
+
+
+.chili-img{
+  width: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.code-img{
+  width: 25%;
+  float: right;
+  padding: 30px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.contact-me {
+  margin: 100px;
+}
+
+.contact-text {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.bottom-container{
+   height: 150px;
+   background-color: #66BFBF;
+ }
+
+
+
+.my-picture{
+  height: 150px;
+}
+
+.middle-container{
+  margin: 100px 0px;
+}
+
+.pro{
+  text-decoration:underline;
+}
+.profile{
+}
+
+
+.top {
+  background-color: #E8F6EF;
+  text-align: center;
+  padding: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align:left;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
